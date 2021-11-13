@@ -15,16 +15,16 @@
 [Linkedin]: https://www.linkedin.com/in/dustine-kyle-hacbang-41895a114/
 
 ### Languages and Tools:
-<img src="images\javascript.png" width="50" hieght="50"> 
-<img src="images\python.png" width="50" hieght="50"> 
-<img src="images\java(1).png" width="50" hieght="50"> 
-<img src="images\react.png" width="50" hieght="50"> 
-<img src="images\flask (1).png" width="50" hieght="50"> 
-<img src="images\django(1).png" width="50" hieght="50"> 
-<img src="images\css3.png" width="50" hieght="50"> 
-<img src="images\html5(1).png" width="50" hieght="50"> 
-<img src="images\git(1).png" width="50" hieght="50">
-<img src="images\mongodb.png" width="50" hieght="50"> 
-<img src="images\mysql.png" width="50" hieght="50">  
-<img src="images\express(1).png" width="50" hieght="50"> 
+<img src="images\javascript.png" width="30" hieght="30"> 
+<img src="images\python.png" width="30" hieght="30"> 
+<img src="images\java(1).png" width="30" hieght="30"> 
+<img src="images\react.png" width="30" hieght="30"> 
+<img src="images\flask (1).png" width="30" hieght="30"> 
+<img src="images\django(1).png" width="30" hieght="30"> 
+<img src="images\css3.png" width="30" hieght="30"> 
+<img src="images\html5(1).png" width="30" hieght="30"> 
+<img src="images\git(1).png" width="30" hieght="30">
+<img src="images\mongodb.png" width="30" hieght="30"> 
+<img src="images\mysql.png" width="30" hieght="30">  
+<img src="images\express(1).png" width="30" hieght="30"> 
 
