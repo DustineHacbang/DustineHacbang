@@ -4,12 +4,12 @@
 <img src="images\linkedin.png" width="12" hieght="12"> [Linkedin]
 ## I'm a Full-Stack Engineer and Photographer
 
-- 🔭 I am working on my Medpass Application!
+- 🔭 I am working on my Project_AI!
 - 🌱 I’m currently learning everything 🤣
 - 🌱 The current challenge I am doing is coding 365 days straight
 - 👯 I’m looking to collaborate and contribute to a company
-- 🥅 2020 - 2021 Goals: Learn more about machine learning
-- ⚡ Fun fact: One of these days I woould like to travel to Italy
+- 🥅 2023 - 2024 Goals: Learn more
+- ⚡ Fun fact: I like potatoes
 
 [Instagram]: https://www.instagram.com/dustbangbang/
 [Linkedin]: https://www.linkedin.com/in/dustine-kyle-hacbang-41895a114/
