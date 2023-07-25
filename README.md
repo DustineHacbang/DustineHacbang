@@ -6,7 +6,6 @@
 
 - 🔭 I am working on my Project_AI!
 - 🌱 I’m currently doing a App Brewry Coding Bootcamp
-- 🌱 The current challenge I am doing is coding 365 days straight
 - 👯 I’m looking to collaborate and contribute to a company
 - 🥅 2023 - 2024 Goals: To land my first software engineer job.
 - ⚡ Fun fact: I like potatoes
