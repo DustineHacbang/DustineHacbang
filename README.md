@@ -5,10 +5,10 @@
 ## I'm a Full-Stack Engineer and Photographer
 
 - 🔭 I am working on my Project_AI!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently doing a App Brewry Coding Bootcamp
 - 🌱 The current challenge I am doing is coding 365 days straight
 - 👯 I’m looking to collaborate and contribute to a company
-- 🥅 2023 - 2024 Goals: Learn more
+- 🥅 2023 - 2024 Goals: To land my first software engineer job.
 - ⚡ Fun fact: I like potatoes
 
 [Instagram]: https://www.instagram.com/dustbangbang/
